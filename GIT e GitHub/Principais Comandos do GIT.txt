@@ -1,0 +1,12 @@
+git init
+git clone <https://url-do-link>
+git commit -m "mensagem"
+git push origin main
+git push <remote> <nome-do-branch>
+git pull <remote>
+git status
+git add .
+git add <arquivo>
+git branch <nome-da-branch>
+git log -- oneline
+git merge <nome-da-branch>
