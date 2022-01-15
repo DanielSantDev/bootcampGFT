@@ -1,0 +1,2 @@
+Arquivo .gitignore: é um arquivo de texto no qual cada linha especifica um padrão de arquivos ou diretórios a ignorar. Fica na raiz do repositório.
+Tipo de arquivos que ele vai ignorar > arquivos de log, arquivos que contenham senhas ou credencias, arquivos de sistemas e temporários, arquivos executáveis de teste, saídas compiladas, arquivos pessoais.
