@@ -1,0 +1,24 @@
+*JAVA é uma linguagem de programação que possui as seguintes características: 
+
+-COMPILADA
+-INTERPRETADA
+-FORTEMENTE TIPADA
+-LINGUAGEM DE ALTA NÍVEL(ORIENTAÇÃO A OBJETOS)
+-EXECUTÁVEL EM UMA JVM(JAVA Virtual Machine)
+
+*A JVM é responsável pela tradução dos bytecodes oriundos do compilador Javac(Java Compiler). Características da JVM:
+
+-Execução de pilhas
+-Gerenciamento de memória e de threads
+-Otimização de código(JIT - Just In Time)
+-Garbage Collector(GC)
+
+*A linguagem Java permite que o código seja compilado pela JVM, sem a necessidade de um compilador diferente para cada tipo de sistema operacional.
+
+*JRE(Java Runtime Environment) - responsável por executar os programas em JAVA
+*JDK(Java Development Kit) - permite o desenvolvimento e execução de programas em Java.
+
+JAVA SE(Standard Edition) - edição padrão
+JAVA EE(Enterprise Edition) - contém SE e programas para que executem em servidores
+JAVA ME(Micro Edition) - dispositivos pequenos
+
