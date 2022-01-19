@@ -1,0 +1,11 @@
+public
+O modificador de acesso public é o menos restritivo de todos. Ele permite que qualquer outra parte da sua aplicação tenha acesso ao componente marcado como public.
+
+protected
+Os membros das classes marcados com o modificador de acesso protected serão acessíveis por classes e interfaces dentro do mesmo pacote e por classes derivadas mesmo que estejam em pacotes diferentes.
+
+private
+O modificador de acesso private é o mais restritivo modificador de acesso. Todo membro de uma classe definido com o modificador private só é acessível para a própria classe. Não importa a localização dentro de pacotes ou se a classe foi herdada ou não, um membro private só é acessível dentro da mesma classe em que ele foi declarado.
+
+padrão
+O modificador de acesso padrão, também conhecido como acessibilidade de pacote, é o modificador atribuído aos membros da classe que não foram marcados explicitamente com um outro modificador de acesso. Membros com acessibilidade de pacote só podem ser acessados por outras classes ou interfaces definidas dentro do mesmo pacote.

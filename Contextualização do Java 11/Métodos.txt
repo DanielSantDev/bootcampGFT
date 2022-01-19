@@ -1,0 +1,5 @@
+Funções que determinam o comportamente de uma classe. Ele é uma função, subrotina ou procedimento em outras linguagens de programação.
+
+Métodos Construtores - Definem como uma classe será instanciada "Construída"
+
+Métodos comum - Definem comportamentos que podem ou não estar atribuídas às regras de negocío. Ex.: Calcular taxas de um pedido.

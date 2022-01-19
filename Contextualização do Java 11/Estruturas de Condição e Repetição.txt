@@ -1,0 +1,5 @@
+Estrutura de condição é responsável por fazer o desvio do fluxo de execução do código de acordo com uma dada condição.
+if, if else, switch
+
+Estrutura de repetição é responsável por executar repetitivamente uma instrução ou um bloco de instruções até uma condição estiver sendo satisfeita.
+while, do while, for, enhanced for

@@ -1,0 +1,30 @@
+Estrutura básica de uma classe
+
+public class Order {
+	//atributos e metodos
+}
+___________________________________________
+Estrutura com atributos e métodos
+
+public class Order {
+	//atributos
+	private final String code;
+
+	//metodos
+	public BigDecimal calculateFee(){
+	}
+}
+___________________________________________
+Estrutura completa de uma classe
+
+package com.dio.base;
+import java.math.BigDecimal;
+public class Order {
+	//atributos
+	private final String code;
+
+	//metodos
+	public BigDecimal calculateFee(){
+	}
+}
+
