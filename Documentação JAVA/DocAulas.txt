@@ -1,0 +1,23 @@
+Comentários em linha
+//Comentando em linhas
+
+Comentários em bloco
+/** hahahaha
+ * Comentando em um bloco
+ */
+
+JavaDoc
+É uma ferramenta para documentação no formato HTML que se baseia nos comentários do código-fonte.
+Os comentários precisam conter tags para que a documentação fique legível.
+
+Tags JavaDoc
+Tipos de tags:
+@author	Especifica o autor da classe ou do método em questão.
+@deprecated	Identifica classes ou métodos obsoletos. É interessante informar nessa tag, quais métodos ou classes podem ser usadas como alternativa ao método obsoleto.
+@link	Possibilita a definição de um link para um outro documento local ou remoto através de um URL.
+@param	Mostra um parâmetro que será passado a um método.
+@return	Mostra qual o tipo de retorno de um método.
+@see	Possibilita a definição referências de classes ou métodos, que podem ser consultadas para melhor compreender idéia daquilo que está sendo comentada.
+@since	Indica desde quando uma classe ou métodos foi adicionado na aplicação.
+@throws	Indica os tipos de exceções que podem ser lançadas por um método.
+@version	Informa a versão da classe.
