@@ -1,0 +1,28 @@
+*Comunidade
+O tamanho da comunidade auxilia na escolha de uma linguagem de programação de uma empresa.
+
+Qualidade e Facilidade para encontrar informações sobre a linguagem diminuem a curva de aprendizado.
+
+Atualmente existem comunidades de tecnologias onde é possível encontrar um grupo voltado para a linguagem
+
+https://opensanca.com.br/
+https://soujava.org.br/
+https://devopspbs.org/
+
+*Carreira
+-Muitas empresas de tecnologia aplicam a carreira em "Y".
+-É importante se especializar em um área: backend, frontend, SRE(site reliability engineering), data engineer, etc.
+-Escolher e focar em uma plataforma de desenvolvimento Java: web, desktop ou mobile.
+
+*Mercado Atual
+-Atualmente o mercado para profissionais de T.I. em geral está em alta.
+-O mercado está carente de profissionais qualificados.
+-Startups de diversos ramos adotaram a linguagem Java: PagSeguro, IFood, AWS, Mecado Livre, Itaú, C6 Bank, Dafiti, Luizalabs, etc.
+
+*Requisitos do Profissional Java
+-Ao evoluir na carreira de Java ou em qualquer carreira de T.I. é necessário desenvolver tanto Soft Skills quanto Hard Skills.
+-Cada vez mais Soft Skills estão se tornando mais prioritárias que Hard Skills.
+
+Soft Skills: resolução de problemas complexos, pensamento crítico, criatividade, gestão de pessoas, coordenação em equipe, liderança.
+
+Hard Skills: spring boot, spring cloud, apache kafka, RabbitMQ, arquitetura cloud, banco de dados relacional e não relacional.
