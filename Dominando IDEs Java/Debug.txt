@@ -1,0 +1,1 @@
+O debug (ou depuração) é uma das atividades que ajuda a equipe de desenvolvimento a identificar problemas no código-fonte de um aplicativo. Ele pode ser executado durante a criação de sistemas web, aplicativos mobile ou mesmo softwares para notebooks.
