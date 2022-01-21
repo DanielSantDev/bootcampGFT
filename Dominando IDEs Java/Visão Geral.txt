@@ -1,0 +1,19 @@
+*Java é uma linguagem orientada a objetos.
+*Java é uma linguagem interpretada
+
+Java é uma linguagem onde o código é compilado para um bytecode onde ele é interpretado pela JVM e por fim executado.
+
+Java program(escrita do código .java) ->
+JDK compila o programa ->
+Gerando o arquivo bytecode (.class) ->
+A JVM imterpreta o arquivo compilado ->
+Execução no Sistema Operacional.
+
+JDK > JRE > JVM
+
+*Uma grande vantagem da plataforma é a de não estar presa a um único sistema operacional ou hardware, pois seus programas rodam através de uma JVM que pode ser emulada.
+
+*Os lançançamentos das versões OpenJDK LTS(Suporte de longo prazo) acontecem pelo menos a cada quatro anos.
+Em empresas se usam versões LTS.
+
+IDE, ou ambiente de desenvolvimento integrado, é um software que combina ferramentas comuns de desenvolvimento em uma única interface gráfica do usuário (GUI), facilitando o desenvolvimento de aplicações
