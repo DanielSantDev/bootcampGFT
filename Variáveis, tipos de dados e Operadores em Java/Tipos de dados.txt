@@ -1,0 +1,13 @@
+Tipos de dados: são valores e operaões que as variáveis podem assumir e sofre.
+
+Tipificação:
+Estática(forte)-obriga definir o tipo no inicio da declaração vs Dinâmica(fraco)
+Primitivo vs Composto
+
+Tipos; textuais, numeral, lógico, objeto
+Numero: byte, short, int, long, float, double.
+Textual: char, String
+Lógico: Boolean
+
+boas práticas: 
+usar de forma adequada cada tipo de dado para cada informação

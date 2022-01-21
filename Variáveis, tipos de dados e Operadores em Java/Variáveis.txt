@@ -1,0 +1,15 @@
+Variável é um espaço na memória do computador, onde se pode guardar valores.
+
+Padrão de definição de uma variável.
+Visibilidade Modificador Tipo Nome Valor;
+ex.: public static int num = 1;
+
+Conveções e Regras:
+Não começar com numero, não usar palavras reservadas, sem espaços, case-sensitive, caracteres proibidos $ e _
+
+Boas Práticas:
+Sempre começar com letra miníscula
+Nomes expressivos
+Notação camelo
+Quando constante(final) maiúscula e separada por '_'
+

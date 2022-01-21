@@ -1,0 +1,9 @@
+É a transformação de uma determinada variável de tipo menos específico para um tipo mais específico ou vice-versa.
+
+Tipos:
+
+Upcast(implícito)
+long l;	int i=10; l=i
+
+Downcast(explícito)
+float f; double d=10.5; f=(float)d;

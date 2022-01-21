@@ -1,0 +1,7 @@
+São simbolos especiais quais são capazes de realizar ações específicas em um, dois ou mais operandos e, em seguida, retornar um resultado.
+
+Precedência
+pós-fixado: exp++ ou exp-- primeiro usa a expressão.
+prefixado: ++exp ou --exp primeiro usa o operador.
+aritmético: +, -, *, / e %
+atribuição: =, +=, -=, *=, /= e %=
