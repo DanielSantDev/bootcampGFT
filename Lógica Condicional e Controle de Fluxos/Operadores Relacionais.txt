@@ -1,0 +1,3 @@
+Operadores Relacionais: são símbolos especiais quais são capazes de realizar comparações entre determinados operandos e, em seguida, retornar um resultado.
+
+Tipos: ==, !=, >, <, >=, <=
