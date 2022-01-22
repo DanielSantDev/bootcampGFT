@@ -1,0 +1,45 @@
+Método: é um porção de código (sub-rotina) que édisponibilizada por uma classe. Este executado quando é feita uma requisição a ele. São responsáveis por definir e realizar um determinado comportamento.
+
+Criação:
+<?visibilidade?> <?tipo?> <?modificador?> retorno nome (<?parâmetros?>) <?exceções?> corpo
+
+public static R N(P){...}
+
+public static void nomeMetodo(parametros){
+instruções
+}
+
+Utilização:
+Passa-se uma mensagem através de uma classe ou objeto
+
+Particularidades:
+Assinatura: é a forma de identificar unicamente o método. Ass = nome + parâmetros
+
+Construtor e Destrutor: são métodos especiais usados na poo
+
+Mensagem: é o atode solicitar ao método que o mesmo execute. Esta pode ser direcionada a um objeto ou uma classe
+
+*Passagem de parâmetros:
+Por valor(cópia)
+Por referência(endereço)
+
+Boas Práticas:
+-Nomes devem ser descritivos, mas curtos
+-Notação cameloo
+-Deve possuir entre 80 e 120 linhas
+-Evite lista de parâmetros longas
+-Visibilidades adequadas
+
+Sobrecarga: É a capacidade de definir métodos para diferentes contextos, mas preservando seu nome.
+
+Sobrecarga x Sobrescrita
+
+Retorno: Funcionamento
+O método executa seu retorno quando: 
+* Completa todas as sua intruções
+* Chega a uma declaração explicita de retorno
+* Lança uma exceção
+
+- O tipo de retorno do método é definido na sua criaçãoe pode ser um tipo primitivo ou objeto.
+- O tipo de dado do return deve ser compatível com o do método;
+- Se o método for sem retorno(void), pode ou não ter um "return" para encerrar sua execução
