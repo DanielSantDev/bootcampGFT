@@ -1,0 +1,7 @@
+Blocos: é um grupo de 0 ou mais códigos quais trabalham em conjunto para executar uma operação.
+
+Tipos;
+Locais: dentro dos métodos
+Estáticos: dentro das classes
+Instância: dentro das classes
+
