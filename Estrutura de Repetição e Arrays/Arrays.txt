@@ -1,0 +1,1 @@
+Arrays: é um objeto utilizado para armazenar sequencialmente dados do mesmo tipo.

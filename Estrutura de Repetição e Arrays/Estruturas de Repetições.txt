@@ -1,0 +1,6 @@
+Estrutura de Repetição: uma estrutura de repetição permite que uma sequência de comandos seja executada repetidamente, caso determinadas condições sejam satisfeitas.
+
+*Repetição com teste no início (while)
+*Repetição com teste no final (do-while)
+*Repetição contada (for)
+
