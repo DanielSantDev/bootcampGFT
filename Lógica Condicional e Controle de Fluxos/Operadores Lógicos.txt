@@ -1,0 +1,18 @@
+Operadores Lógicos: são símbolos especiais quais são capazes de realizar comparações lógicas entre operandos lógicos ou expressões e, em seguida, retornar um resultado.
+
+Tipos: conjução, disjunção, disjunção exclusiva e negação
+
+Conjução: só é verdadeira quando ambos os operandos ou expressões envolvidas são verdade.
+AND - && - e
+
+Disjunção: só é falsa quando ambos os operandos ou expressões envolvidos são falsos.
+OR - || - ou
+
+Disjunção Exclusiva: só é verdade quando ambos os operandos ou expressões são opostos.
+XOR - ^ - 
+
+Negação: operando que inverte o valor lógico de um operando ou expressão.
+Inverção - !
+
+
+Boa Práticas: crie variáveis auxiliares para guardar resultados intermediários. Diminuir o tamanho da expressão.
