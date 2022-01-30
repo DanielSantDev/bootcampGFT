@@ -1,0 +1,14 @@
+java.util.List
+*Elementos duplicados e garante ordem de inserção
+
+java.util.Set
+*representa grupos de elementos sem duplicatas, ou seja, são usados quando o programador não precisar ter nenhum dado duplicado na coleção.
+
+Características - Set
+Velocidade na pesquisa de dados, sendo mais rápida que um objeto do tipo List;
+A inserção de dados é mais lenta;
+Permite trabalhar com conjuntos e pode ser implementado como instâncias das classes HashSet ou TreeSet;
+Não precisa especificar a posição para adicionar um elemento;
+Não aceita valores duplicados. Se caso inserir um registro que já tenha no Set não será adicionado.
+Podem ser implementados como instâncias das classes HashSet ou TreeSet;
+
