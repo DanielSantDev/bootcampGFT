@@ -1,0 +1,16 @@
+Protocolo HTTP = HyperText Transfer Protocol
+
+É um protocolo de comunicação: rege a estrutura das mensagens
+
+Browser -> implementa o cliente HTTP
+Servidor -> host objetos web
+
+Arquitetura Client-server;
+**Cliente: mensagens - request HTTP(objetos web)
+-
+
+**Server: mensagens - response HTTP(TCP)
+
+Stateless: não armazena estado
+
+Métodos seguros: GET, HEAD, OPTION
