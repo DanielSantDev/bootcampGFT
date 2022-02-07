@@ -32,7 +32,20 @@ public class Desafio04 {
         System.out.println(quociente + " nota(s) de R$ " + nota + ".00");
         resto = resto % (nota * 100);
 
-        //Continue o seu código aqui
+        nota = 10;
+        quociente = resto / (nota * 100);
+        System.out.println(quociente + " nota(s) de R$ " + nota + ".00");
+        resto = resto % (nota * 100);
+
+        nota = 5;
+        quociente = resto / (nota * 100);
+        System.out.println(quociente + " nota(s) de R$ " + nota + ".00");
+        resto = resto % (nota * 100);
+
+        nota = 2;
+        quociente = resto / (nota * 100);
+        System.out.println(quociente + " nota(s) de R$ " + nota + ".00");
+        resto = resto % (nota * 100);
 
 
         System.out.println("MOEDAS:");
@@ -48,9 +61,20 @@ public class Desafio04 {
         System.out.println(quociente + " moeda(s) de R$ 0.50");
         resto = resto % moeda;
 
-        //continue o seu código aqui
+        moeda = 25;
+        quociente = resto / moeda;
+        System.out.println(quociente + " moeda(s) de R$ 0.25");
+        resto = resto % moeda;
 
+        moeda = 10;
+        quociente = resto / moeda;
+        System.out.println(quociente + " moeda(s) de R$ 0.10");
+        resto = resto % moeda;
 
+        moeda = 5;
+        quociente = resto / moeda;
+        System.out.println(quociente + " moeda(s) de R$ 0.05");
+        resto = resto % moeda;
 
         System.out.println(resto + " moeda(s) de R$ 0.01");
 
