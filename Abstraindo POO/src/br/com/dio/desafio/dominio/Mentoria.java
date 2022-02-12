@@ -28,6 +28,6 @@ public class Mentoria extends Conteudo{
 
     @Override
     public double calcularXp() {
-        return XD_PADRAO + 20d;
+        return XP_PADRAO + 20d;
     }
 }

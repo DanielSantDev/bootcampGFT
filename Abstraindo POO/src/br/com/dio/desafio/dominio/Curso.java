@@ -1,10 +1,13 @@
 package br.com.dio.desafio.dominio;
 
-import java.time.LocalDate;
-
 public class Curso extends Conteudo{
 
     private int cargaHoraria;
+
+    @Override
+    public double calcularXp() {
+        return XP_PADRAO * cargaHoraria;
+    }
 
     public Curso() {
     }
@@ -24,10 +27,5 @@ public class Curso extends Conteudo{
                 ", descricao='" + getDescricao() + '\'' +
                 ", cargaHoraria=" + cargaHoraria +
                 '}';
-    }
-
-    @Override
-    public double calcularXp() {
-        return XD_PADRAO * cargaHoraria;
     }
 }
