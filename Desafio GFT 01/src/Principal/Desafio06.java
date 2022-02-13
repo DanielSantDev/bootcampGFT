@@ -18,7 +18,7 @@ public class Desafio06 {
 
         for (int i = 0; i < M.length; i++) {
             for (int j = 0; j < M[i].length; j++) {
-                if (j < i && j > M.length-i-1) soma += M[i][j];
+                if (j > i && j > M.length-i-1) soma += M[i][j];
             }
         }
 
