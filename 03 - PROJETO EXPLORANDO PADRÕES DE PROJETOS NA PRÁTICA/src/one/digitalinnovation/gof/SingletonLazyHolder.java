@@ -1,7 +1,7 @@
 package one.digitalinnovation.gof;
 
 /**
- * Singleton "apressado"
+ * Singleton "Lazy Holder"
  */
 
 public class SingletonLazyHolder {
