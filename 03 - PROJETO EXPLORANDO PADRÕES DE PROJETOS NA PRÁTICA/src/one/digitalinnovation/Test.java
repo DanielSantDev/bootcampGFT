@@ -1,5 +1,8 @@
-import one.digitalinnovation.gof.*;
-import strategy.*;
+package one.digitalinnovation;
+
+import one.digitalinnovation.singleton.*;
+import one.digitalinnovation.strategy.*;
+import one.digitalinnovation.facade.*;
 
 public class Test {
 
