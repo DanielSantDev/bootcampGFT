@@ -43,6 +43,11 @@ public class Test {
         robo.mover();
         robo.mover();
 
+        //FACADE
+
+        Facade facade = new Facade();
+        facade.migrarCliente("Venilton", "14802-510");
+
     }
 
 }
